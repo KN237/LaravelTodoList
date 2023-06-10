@@ -1,5 +1,13 @@
 # LaraTodo
-This is a simple TodoList I created using just Laravel
+This is a simple TodoList written just in php(Laravel)
+
+<img src="todo1.PNG" />
+
+<img src="todo2.PNG" />
+
+<img src="todo3.PNG" />
+
+<img src="todo4.PNG" />
 
 # Installation
 
