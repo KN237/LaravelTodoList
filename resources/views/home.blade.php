@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    TodoList Exampl
+                    TodoList Example
                 </div>
 
                 <a href="/todos/index" >
